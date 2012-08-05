@@ -22,6 +22,8 @@ int memory_min = 0x7FFF; // default bigger value
 
 /**
  * Get the total free memory 
+ *
+ * @return Available free memory in bytes
  */
 int getFreeMemory()
 {
