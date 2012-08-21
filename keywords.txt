@@ -1,0 +1,16 @@
+#################################################
+# Syntax Coloring Map For MemoryFree Arduino Library
+# http://hardwarefun.com/projects/memory-free
+#################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getFreeMemory KEYWORD2
+memoryCheck KEYWORD2
+getMinMemory KEYWORD2
