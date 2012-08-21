@@ -6,6 +6,13 @@
  * Original code from - http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?num=1213583720/19#19
  * Minimum RAM Check from - http://github.com/ribbotson/USB-Host/tree/master/Memory_Free/
  *
+ * Author: 
+ *
+ *   Sudar - <http://sudarmuthu.com> <http://hardwarefun.com>
+ *   Refer to http://hardwarefun.com/projects/memory-free
+ *
+ * License: BeerWare ;)
+ *
  */
 
 #ifndef	MEMORY_FREE_H
