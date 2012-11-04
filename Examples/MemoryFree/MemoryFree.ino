@@ -31,7 +31,7 @@ License:
 // Difference: 14 bytes (13 ascii chars + null terminator
 
 // 14-bytes string
-//char str[] = "Hallo, world!";
+//char str[] = "Hello, world!";
 
 void setup() {
     Serial.begin(9600);
