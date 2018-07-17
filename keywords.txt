@@ -11,6 +11,6 @@
 # Methods and Functions (KEYWORD2)
 #######################################
 
-getFreeMemory KEYWORD2
-memoryCheck KEYWORD2
-getMinMemory KEYWORD2
+getFreeMemory	KEYWORD2
+memoryCheck	KEYWORD2
+getMinMemory	KEYWORD2
